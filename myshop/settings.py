@@ -27,7 +27,7 @@ SECRET_KEY = '7j@k#$s^5txa+6-a3pa^)ap46)=%g6x+w)wn(!b48v5lusb^=u'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['organic-vegetables-fruits.herokuapp.com','localhost','127.0.0.1']
 
 
 # Application definition
